@@ -4,7 +4,7 @@
 
 Unsere GitHub Dokumentation ist entsprechend dem Webertungsbogen der WRO Future Engineers Kategorie aufgebaut. Unter Punkt 1-5 sind die 
 Informationen und das Material entsprechung der Bewertungskriterien vorhanden. 
-Darunten under Punkt a-f findest man sonstige Sachen, die unsserer Meinung auch wichtig sind.
+Darunter under Punkt a-f findest man sonstige Sachen, die unsserer Meinung nach auch wichtig sind.
 
 
 **Einleitung**
