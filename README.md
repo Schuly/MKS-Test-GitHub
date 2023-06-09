@@ -24,3 +24,31 @@ Da dieser Prozess sehr schnell und sehr oft wiederholt wird, kann es manchmal zu
 
 Bei dem Hindernisrennen nutzen wir als Grundlage die Programmierung von dem Eröffnungsrenenn. Denn hier müssen wir ja auch autonom fahren. Nur wenn die Kamera hier einen bunten Stein erkennt, weichen wir aus. Bei roten Steinen rechtsrum, bei Grünen linksherum. Für die Farberkennung haben wir Filter/Masken, damit wir nur die Farben sehen und die sonstigen Fehler, die die Kamera erkennen könnte, ausblenden. Des Weiteren verändern wir die Belichtung des Bildes dynamisch je nach Umgebungshelligkeit, damit wir die Fraben besser erkennen können.
 
+
+**Technische Komponenten**
+
+Raspberry Pi 4
+3x HC-SR04 Ultraschallsensoren
+Motor
+Motorsteuerung
+18V Bosch Bohrmaschinen-Akku
+Spannungswandler von 18V zu 5V
+Knopf
+Schalter
+Led-Lampe
+JumperKabel / sonstige Kabel
+Pi-Cam
+Verschiedene Widerstände
+Servo-Motor (mg996r)
+
+
+**Sonstige Komponenten**
+
+Metall Grundplatte
+Metall Schraubstützen
+Selbst modellierte 3D-Modelle aus dem 3D-Drucker
+Verschiedene Schrauben
+Kabelbinder
+Heißkleber / Sekundenkleber
+Schrumpfschläuche
+Platine für Ultraschallsensoren
