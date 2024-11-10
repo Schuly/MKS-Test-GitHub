@@ -81,3 +81,44 @@ Code kopieren
 ---
 
 *3D printed parts were made with the BambuLab P1P*
+
+
+
+
+
+
+# ⚙️ Hardware & Components ⚙️
+
+| Category           | Component                               | Quantity | Price |
+|--------------------|-----------------------------------------|----------|-------|
+| **Computing**      | Raspberry Pi 4                          | 2        |       |
+|                    | Arduino Nano                            | 1        |       |
+|                    | Raspberry Pi 3                          | 1        |       |
+| **Sensors**        | HC-SR04 Ultrasonic Sensor               | 3        |       |
+| **Motors**         | Brushless Motor 12V                     | 1        |       |
+|                    | Servo Motor (MG996R)                    | 1        |       |
+| **Motor Control**  | Motor Controller (L298N)               | 1        |       |
+| **Power**          | 18V Bosch Drill Battery                 | 1        |       |
+|                    | Voltage Converter (18V to 5V)          | 1        |       |
+| **Controls**       | Button                                 | 1        |       |
+|                    | Switch                                 | 1        |       |
+|                    | LED Lamps                              | 2        |       |
+| **Connectivity**   | Jumper Wires / Other Cables            | Various  |       |
+|                    | USB Webcam (Logitech Brio 500)         | 1        |       |
+
+### 🛠️ Other Components:
+
+- **Metal Baseplate**
+- **Metal Standoffs**
+- **Self-modeled 3D Prints from a 3D Printer**
+- **Various Screws**
+- **Cable Ties**
+- **Hot Glue / Super Glue / Metal Glue**
+- **Heat Shrink Tubing**
+
+---
+
+**Total Cost:** (Bitte hier Gesamtkosten eintragen)
+
+*Hinweis: Einige der Komponenten sind 3D-gedruckt und selbst modelliert.*
+
