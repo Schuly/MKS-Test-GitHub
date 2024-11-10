@@ -52,3 +52,32 @@ Kabelbinder
 Heißkleber / Sekundenkleber
 Schrumpfschläuche
 Platine für Ultraschallsensoren
+
+
+
+Um eine Tabelle wie die beschriebene auf GitHub darzustellen, kannst du Markdown verwenden. GitHub unterstützt Markdown-Tabellen, die einfach formatiert und leicht lesbar sind. Hier ist die entsprechende Markdown-Syntax für die Tabelle, die du erstellen möchtest:
+
+markdown
+Code kopieren
+# 🤖 Hardware 🤖
+
+## ⚙️ Components ⚙️
+
+| Name               | Product                              | Price |
+|--------------------|--------------------------------------|-------|
+| **RC Car**         | Carisma GT24                         | $263  |
+| **RC Car Battery** | Gens Ace 1300mAh Battery            | $35   |
+| **Drive Motor & ESC** | Furitek Komodo Motor + Lizard Pro ESC | $226  |
+| **Turning Motor**  | Hitec HS-5055MG Servo Motor         | $38   |
+| **Motor Mount**    | GT24 High Performance Alloy Motor Mount | $17 |
+| **CSI Camera**     | SainSmart Wide Angle Fish-Eye Camera | $19   |
+| **Raspberry Pi HAT** | HiWonder TurboPi HAT               | $61   |
+| **Raspberry Pi**   | Vemico Raspberry Pi 4               | $176  |
+| **Raspberry Pi Fan** | GeeekPi Fan                        | $19   |
+| **ON/OFF Switch**  | DaierTek Switch                     | $13   |
+
+**Total Car Cost:** $867 CAD
+
+---
+
+*3D printed parts were made with the BambuLab P1P*
