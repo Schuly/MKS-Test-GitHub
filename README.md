@@ -161,3 +161,43 @@ Code kopieren
 *Hinweis: Einige der Komponenten sind 3D-gedruckt und selbst modelliert.*
 
 
+
+# ⚙️ Hardware & Components ⚙️
+
+| Quantity | Component                               | Price per Unit | Total Price |
+|----------|-----------------------------------------|----------------|-------------|
+| 2        | [Raspberry Pi 4](https://www.google.com) | €X.XX          | €XX.XX      |
+| 1        | [Arduino Nano](https://www.google.com)   | €X.XX          | €X.XX       |
+| 1        | [Raspberry Pi 3](https://www.google.com) | €X.XX          | €X.XX       |
+| 3        | [HC-SR04 Ultrasonic Sensor](https://www.google.com) | €X.XX | €XX.XX      |
+| 1        | [Brushless Motor 12V](https://www.google.com) | €X.XX         | €X.XX       |
+| 1        | [Servo Motor (MG996R)](https://www.google.com) | €X.XX        | €X.XX       |
+| 1        | [Motor Controller (L298N)](https://www.google.com) | €X.XX      | €X.XX       |
+| 1        | [18V Bosch Drill Battery](https://www.google.com) | €X.XX      | €X.XX       |
+| 1        | [Voltage Converter (18V to 5V)](https://www.google.com) | €X.XX   | €X.XX       |
+| 1        | [Button](https://www.google.com)         | €X.XX          | €X.XX       |
+| 1        | [Switch](https://www.google.com)         | €X.XX          | €X.XX       |
+| 2        | [LED Lamps](https://www.google.com)      | €X.XX          | €XX.XX      |
+| Various  | [Jumper Wires / Other Cables](https://www.google.com) | €X.XX    | €X.XX       |
+| 1        | [USB Webcam (Logitech Brio 500)](https://www.google.com) | €X.XX   | €X.XX       |
+
+---
+
+### 🛠️ Other Components:
+
+| Component                             | Price   |
+|---------------------------------------|---------|
+| [Metal Baseplate](https://www.google.com)  | €X.XX   |
+| [Metal Standoffs](https://www.google.com)  | €X.XX   |
+| [Self-modeled 3D Prints from a 3D Printer](https://www.google.com) | €X.XX   |
+| [Various Screws](https://www.google.com)    | €X.XX   |
+| [Cable Ties](https://www.google.com)       | €X.XX   |
+| [Hot Glue / Super Glue / Metal Glue](https://www.google.com) | €X.XX   |
+| [Heat Shrink Tubing](https://www.google.com) | €X.XX   | 
+
+---
+
+**Total Cost:** €X.XX (Bitte hier Gesamtkosten eintragen)
+
+*Hinweis: Einige der Komponenten sind 3D-gedruckt und selbst modelliert.*
+
