@@ -122,3 +122,42 @@ Code kopieren
 
 *Hinweis: Einige der Komponenten sind 3D-gedruckt und selbst modelliert.*
 
+
+
+
+# ⚙️ Hardware & Components ⚙️
+
+| Quantity | Component                               | Price per Unit | Total Price | Product Link |
+|----------|-----------------------------------------|----------------|-------------|--------------|
+| 2        | [Raspberry Pi 4](#)                     | €X.XX          | €XX.XX      | [Link](#)    |
+| 1        | [Arduino Nano](#)                       | €X.XX          | €X.XX       | [Link](#)    |
+| 1        | [Raspberry Pi 3](#)                     | €X.XX          | €X.XX       | [Link](#)    |
+| 3        | [HC-SR04 Ultrasonic Sensor](#)          | €X.XX          | €XX.XX      | [Link](#)    |
+| 1        | [Brushless Motor 12V](#)                | €X.XX          | €X.XX       | [Link](#)    |
+| 1        | [Servo Motor (MG996R)](#)               | €X.XX          | €X.XX       | [Link](#)    |
+| 1        | [Motor Controller (L298N)](#)           | €X.XX          | €X.XX       | [Link](#)    |
+| 1        | [18V Bosch Drill Battery](#)            | €X.XX          | €X.XX       | [Link](#)    |
+| 1        | [Voltage Converter (18V to 5V)](#)      | €X.XX          | €X.XX       | [Link](#)    |
+| 1        | [Button](#)                             | €X.XX          | €X.XX       | [Link](#)    |
+| 1        | [Switch](#)                             | €X.XX          | €X.XX       | [Link](#)    |
+| 2        | [LED Lamps](#)                          | €X.XX          | €XX.XX      | [Link](#)    |
+| Various  | [Jumper Wires / Other Cables](#)        | €X.XX          | €X.XX       | [Link](#)    |
+| 1        | [USB Webcam (Logitech Brio 500)](#)     | €X.XX          | €X.XX       | [Link](#)    |
+
+### 🛠️ Other Components:
+
+- **Metal Baseplate**
+- **Metal Standoffs**
+- **Self-modeled 3D Prints from a 3D Printer**
+- **Various Screws**
+- **Cable Ties**
+- **Hot Glue / Super Glue / Metal Glue**
+- **Heat Shrink Tubing**
+
+---
+
+**Total Cost:** €X.XX (Bitte hier Gesamtkosten eintragen)
+
+*Hinweis: Einige der Komponenten sind 3D-gedruckt und selbst modelliert.*
+
+
